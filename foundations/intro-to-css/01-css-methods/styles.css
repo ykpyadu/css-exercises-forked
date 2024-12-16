@@ -1,0 +1,20 @@
+/*Alliging the text to center*/
+div {
+    text-align: center;
+}
+/*Text colour*/
+div {
+    color: white;
+}
+/*BG Colour*/
+div{
+    background-color: red;
+}
+/*making the text bold and increasing font size*/
+div{
+    font-weight: 900;
+    font-size: 40px;
+}
+div{
+    height: 50px;
+}
